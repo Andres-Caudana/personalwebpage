@@ -1,0 +1,45 @@
+/*los colores que quiero usar en la pagina FFFFFF,8CA1FF ,1943FF*/
+/* https://coolors.co/bfb0a5-dfd8d2-ffffff-b2b2b1-656463*/
+/*colores onda grises quiero usar al final*/
+body {
+  background-color: #656463;
+  padding: 0;
+  margin: 0;
+}
+.cabezera {
+  background-color: #656463;
+  width: 600px;
+  margin: auto;
+  padding: 0;
+  text-align: center;
+}
+.img-cabezera{
+  width:600px;
+  height:300px;
+}
+.paginas{
+ width: 600px;
+ margin: auto;
+ text-align: center;
+ background-color: #FFFFFF;
+}
+.sobre-mi {
+ background-color: #656463;
+ width: 600px;
+ margin: auto;
+ text-align: center;
+}
+.h1-sobre-mi{
+  background-color: #b2b2b1;
+  text-align: left;
+  margin: 0;
+}
+.proyectos {
+ width: 600px;
+ margin: auto;
+ text-align: center;
+}
+.h1-proyectos{
+  background-color: #b2b2b1;
+  text-align: left;
+}
